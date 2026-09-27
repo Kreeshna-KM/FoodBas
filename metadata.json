@@ -1,0 +1,6 @@
+{
+  "name": "FoodBas",
+  "description": "Order delicious food from your favorite restaurants in Bardibas and get it delivered fresh and fast.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
